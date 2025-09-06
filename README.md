@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3830-find-closest-person](https://github.com/manikantaraju12/Leetcode/tree/master/3830-find-closest-person) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/manikantaraju12/Leetcode/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
