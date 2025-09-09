@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/manikantaraju12/Leetcode/tree/master/0610-triangle-judgement) |
 | [1174-sales-analysis-iii](https://github.com/manikantaraju12/Leetcode/tree/master/1174-sales-analysis-iii) |
 | [1268-market-analysis-i](https://github.com/manikantaraju12/Leetcode/tree/master/1268-market-analysis-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/manikantaraju12/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/manikantaraju12/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/manikantaraju12/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
