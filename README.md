@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manikantaraju12/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Array
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+## Hash Table
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+## Greedy
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 <!---LeetCode Topics End-->
