@@ -27,12 +27,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
