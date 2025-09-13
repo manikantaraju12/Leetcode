@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/manikantaraju12/Leetcode/tree/master/0013-roman-to-integer) |
 | [3830-find-closest-person](https://github.com/manikantaraju12/Leetcode/tree/master/3830-find-closest-person) |
 ## Database
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
