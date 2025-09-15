@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/manikantaraju12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manikantaraju12/Leetcode/tree/master/0013-roman-to-integer) |
 | [3830-find-closest-person](https://github.com/manikantaraju12/Leetcode/tree/master/3830-find-closest-person) |
 ## Database
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/manikantaraju12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manikantaraju12/Leetcode/tree/master/0013-roman-to-integer) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/manikantaraju12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manikantaraju12/Leetcode/tree/master/0013-roman-to-integer) |
 | [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
