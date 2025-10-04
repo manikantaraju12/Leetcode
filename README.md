@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/manikantaraju12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manikantaraju12/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/manikantaraju12/Leetcode/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manikantaraju12/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/manikantaraju12/Leetcode/tree/master/0830-largest-triangle-area) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manikantaraju12/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/manikantaraju12/Leetcode/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |
