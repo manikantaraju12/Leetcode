@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/manikantaraju12/Leetcode/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/manikantaraju12/Leetcode/tree/master/0120-triangle) |
 | [0830-largest-triangle-area](https://github.com/manikantaraju12/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/manikantaraju12/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/manikantaraju12/Leetcode/tree/master/0056-merge-intervals) |
 | [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
