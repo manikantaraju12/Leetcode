@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manikantaraju12/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/manikantaraju12/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/manikantaraju12/Leetcode/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/manikantaraju12/Leetcode/tree/master/0120-triangle) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manikantaraju12/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/manikantaraju12/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/manikantaraju12/Leetcode/tree/master/0056-merge-intervals) |
 | [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manikantaraju12/Leetcode/tree/master/0015-3sum) |
 | [0165-compare-version-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0165-compare-version-numbers) |
 ## Geometry
 |  |
