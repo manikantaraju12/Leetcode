@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manikantaraju12/Leetcode/tree/master/0054-spiral-matrix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manikantaraju12/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manikantaraju12/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Array
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/manikantaraju12/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/manikantaraju12/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/manikantaraju12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/manikantaraju12/Leetcode/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/manikantaraju12/Leetcode/tree/master/0120-triangle) |
 | [0830-largest-triangle-area](https://github.com/manikantaraju12/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manikantaraju12/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/manikantaraju12/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
