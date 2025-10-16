@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manikantaraju12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/manikantaraju12/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/manikantaraju12/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/manikantaraju12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manikantaraju12/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [2429-design-a-food-rating-system](https://github.com/manikantaraju12/Leetcode/tree/master/2429-design-a-food-rating-system) |
