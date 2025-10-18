@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/manikantaraju12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manikantaraju12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/manikantaraju12/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/manikantaraju12/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/manikantaraju12/Leetcode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manikantaraju12/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/manikantaraju12/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/manikantaraju12/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/manikantaraju12/Leetcode/tree/master/0067-add-binary) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manikantaraju12/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manikantaraju12/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Array
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/manikantaraju12/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/manikantaraju12/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manikantaraju12/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/manikantaraju12/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manikantaraju12/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [2429-design-a-food-rating-system](https://github.com/manikantaraju12/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manikantaraju12/Leetcode/tree/master/0067-add-binary) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/manikantaraju12/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
 |  |
