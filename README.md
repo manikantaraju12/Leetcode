@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/manikantaraju12/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/manikantaraju12/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/manikantaraju12/Leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manikantaraju12/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manikantaraju12/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/manikantaraju12/Leetcode/tree/master/0830-largest-triangle-area) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manikantaraju12/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/manikantaraju12/Leetcode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/manikantaraju12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/manikantaraju12/Leetcode/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manikantaraju12/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0830-largest-triangle-area](https://github.com/manikantaraju12/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/manikantaraju12/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manikantaraju12/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manikantaraju12/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
