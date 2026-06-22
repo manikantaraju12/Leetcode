@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/manikantaraju12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/manikantaraju12/Leetcode/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manikantaraju12/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [1189-maximum-number-of-balloons](https://github.com/manikantaraju12/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/manikantaraju12/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/manikantaraju12/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manikantaraju12/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/manikantaraju12/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manikantaraju12/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [1189-maximum-number-of-balloons](https://github.com/manikantaraju12/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2429-design-a-food-rating-system](https://github.com/manikantaraju12/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/manikantaraju12/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manikantaraju12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/manikantaraju12/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
