@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/manikantaraju12/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/manikantaraju12/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manikantaraju12/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2023-design-movie-rental-system](https://github.com/manikantaraju12/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manikantaraju12/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/manikantaraju12/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manikantaraju12/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manikantaraju12/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/manikantaraju12/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/manikantaraju12/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/manikantaraju12/Leetcode/tree/master/0056-merge-intervals) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manikantaraju12/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2502-sort-the-people](https://github.com/manikantaraju12/Leetcode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
